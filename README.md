@@ -1,145 +1,337 @@
 <div align="center">
-  <h1>👋 Hi, I'm Malik Zain</h1>
 
+# 👋 Hi, I'm Malik Zain
+
+### Full-Stack Developer • Frontend Engineer • Interactive Web Developer
+
+<a href="https://github.com/malikzainkhan">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=650&height=45&lines=Full-Stack+Developer;Frontend+%26+Interactive+Web+Engineer;Python+%26+Backend+Developer;UI%2FUX+%26+Creative+Coder" alt="Typing SVG" />
+</a>
+
+<p>
+  Building modern, scalable and high-performance web applications with a strong focus on
+  <strong>UI/UX, frontend engineering, backend systems and interactive experiences.</strong>
+</p>
+
+<p>
   <a href="https://github.com/malikzainkhan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=550&height=45&lines=Full-Stack%20Developer;Frontend%20%26%20Interactive%20Web%20Engineer;Python%20%26%20Backend%20Developer;UI%2FUX%20Craftsman%20%26%20Creative%20Coder" alt="Typing SVG Banner" />
+    <img src="https://komarev.com/ghpvc/?username=malikzainkhan&label=Profile%20Views&color=7aa2f7&style=flat" alt="Profile Views" />
   </a>
+  <a href="https://github.com/malikzainkhan?tab=followers">
+    <img src="https://img.shields.io/github/followers/malikzainkhan?label=Followers&style=flat&color=7aa2f7&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/malikzainkhan?tab=repositories">
+    <img src="https://img.shields.io/github/stars/malikzainkhan?affiliations=OWNER&style=flat&label=Stars&color=7aa2f7&logo=github" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/malikzainkhan?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-7aa2f7?style=flat&logo=github" alt="Repositories" />
+  </a>
+</p>
 
-  <p><strong>Full-Stack Developer • Interactive Web Engineer • Python Programmer</strong></p>
-
-  <p>
-    <a href="https://github.com/malikzainkhan"><img src="https://komarev.com/ghpvc/?username=malikzainkhan&label=Profile%20Views&color=7aa2f7&style=flat" alt="Profile views" /></a>
-    <a href="https://github.com/malikzainkhan?tab=followers"><img src="https://img.shields.io/github/followers/malikzainkhan?label=Followers&style=flat&color=7aa2f7" alt="Followers" /></a>
-    <a href="https://github.com/malikzainkhan?tab=repositories"><img src="https://img.shields.io/github/stars/malikzainkhan?label=Stars&style=flat&color=7aa2f7" alt="Stars" /></a>
-  </p>
 </div>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently building **interactive, high-performance web applications**
-- 🌱 Exploring **advanced Python, backend architecture, and UI/UX systems**
-- 💬 Ask me about **JavaScript, Python, React, or frontend performance**
-- 📫 Reach me at: **your-email@example.com**
-- ⚡ Fun fact: I love turning coffee ☕ into clean, elegant code
+* 🔭 Currently building **IELTS Coach** and modern full-stack web applications.
+* 🌱 Deepening my expertise in **Next.js, TypeScript, Three.js, WebGL, GSAP and scalable backend architecture**.
+* 💡 Passionate about **interactive UI, micro-interactions, responsive design and performance optimization**.
+* ⚙️ Experienced with both **frontend and backend development**.
+* 🤝 Open to collaborating on **full-stack, frontend and open-source projects**.
+* 💬 Ask me about **React, Next.js, JavaScript, TypeScript, Python, REST APIs, Tailwind CSS and modern web development**.
+* 📍 Based in **Pakistan**.
+* 💼 Working with **Zain Builder's**.
+* ⚡ Turning complex problems into clean, useful and engaging digital experiences.
 
 ---
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 
-<div align="center">
+## 💻 Frontend & UI Development
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,threejs,redux&theme=dark" alt="Frontend Technologies" />
+</p>
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,vite" />
+## ⚙️ Backend, Databases & Cloud
 
-**Backend & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgres" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,postgresql,firebase&theme=dark" alt="Backend Technologies" />
+</p>
 
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker" />
+## 🛠️ Developer Tools & DevOps
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma,linux&theme=dark" alt="Developer Tools" />
+</p>
 
----
+## 🎯 Core Expertise
 
-## 📊 GitHub Statistics
+<p align="center">
 
-<div align="center">
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `Python` · `Node.js`
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malikzainkhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikzainkhan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+`REST APIs` · `GSAP` · `Three.js` · `WebGL` · `UI/UX`
 
-</div>
+`SEO` · `Accessibility` · `Performance` · `Responsive Design`
 
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=malikzainkhan&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
+</p>
 
 ---
 
-## 📈 Contribution Graph
+# ⭐ Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malikzainkhan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+<table>
+<tr>
 
----
+<td width="50%" valign="top">
 
-## 🏆 GitHub Trophies
+### 🛡️ Haseen Ullah Portfolio
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=malikzainkhan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div>
+Professional portfolio website focused on responsive design, SEO, performance and modern interactive UI.
 
----
+**Tech Stack**
 
-## 🐍 Contribution Snake
+React · JavaScript · CSS3 · Vercel
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/malikzainkhan/malikzainkhan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-> ⚠️ Requires a one-time GitHub Action setup — see instructions below.
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/malikzainkhan/REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=malikzainkhan&repo=REPO_1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/malikzainkhan/REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=malikzainkhan&repo=REPO_2&theme=tokyonight&hide_border=true" />
-</a>
-<br/>
-<a href="https://github.com/malikzainkhan/REPO_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=malikzainkhan&repo=REPO_3&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/malikzainkhan/REPO_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=malikzainkhan&repo=REPO_4&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/malikzainkhan/haseenullah-portfolio">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="GitHub Repository" />
 </a>
 
-</div>
+<a href="https://haseenullah.vercel.app">
+<img src="https://img.shields.io/badge/Live-Demo-22c55e?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
+</a>
 
-> Replace `REPO_1`, `REPO_2`, etc. with your actual repository names.
+</td>
 
----
+<td width="50%" valign="top">
 
-## 🌐 Connect With Me
+### 🎓 IELTS Coach
+
+Interactive IELTS preparation platform designed for reading, writing, vocabulary and learning practice.
+
+**Tech Stack**
+
+Next.js · React · TypeScript · Tailwind CSS
+
+<a href="https://github.com/malikzainkhan/ielts-coach">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="GitHub Repository" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎬 Netflix UI Experience
+
+Responsive Netflix-inspired interface featuring dynamic content layouts, sliders and video previews.
+
+**Tech Stack**
+
+HTML5 · CSS3 · JavaScript
+
+<a href="https://github.com/malikzainkhan/Project-Netflix-page">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="GitHub Repository" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧮 Scientific Calculator
+
+Responsive scientific calculator supporting advanced mathematical operations and real-time calculations.
+
+**Tech Stack**
+
+JavaScript · HTML5 · CSS3
+
+<a href="https://github.com/malikzainkhan/Scientific-calc">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="GitHub Repository" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📝 Word & Text Analyzer
+
+Real-time text analysis tool for word count, character count, reading time and keyword analysis.
+
+**Tech Stack**
+
+JavaScript · HTML5 · CSS3
+
+<a href="https://github.com/malikzainkhan/word-counter">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="GitHub Repository" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎨 CSS Interactive Components
+
+Collection of responsive layouts, CSS animations, Flexbox/Grid experiments and reusable UI components.
+
+**Tech Stack**
+
+HTML5 · CSS3 · Responsive Design
+
+<a href="https://github.com/malikzainkhan/CSS-Assignment">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="GitHub Repository" />
+</a>
+
+</td>
+
+</tr>
+</table>
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://YOUR-PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+<a href="https://github.com/malikzainkhan?tab=repositories">
+
+<strong>🚀 Explore All Repositories →</strong>
+
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/malikzainkhan">
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=malikzainkhan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github"
+alt="Malik Zain GitHub Statistics" />
+
+</a>
+
+<a href="https://github.com/malikzainkhan">
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikzainkhan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10"
+alt="Most Used Languages" />
+
+</a>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com/?user=malikzainkhan&theme=tokyonight&hide_border=true&border_radius=10"
+alt="Malik Zain GitHub Contribution Streak" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/malikzainkhan">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=malikzainkhan&show_icons=true&hide=issues,prs&theme=tokyonight&hide_border=true&border_radius=10"
+alt="GitHub Contribution Statistics" />
+
+</a>
+
+<br />
+
+<a href="https://github.com/malikzainkhan">
+  <strong>📊 View Complete GitHub Contribution Activity →</strong>
+</a>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/malikzainkhan?tab=achievements">
+
+<img
+src="https://img.shields.io/badge/🏆_View_GitHub_Achievements-7aa2f7?style=for-the-badge"
+alt="View GitHub Achievements" />
+
+</a>
+
+<br /><br />
+
+<a href="https://github.com/malikzainkhan?tab=achievements">
+  <strong>Explore my GitHub achievements →</strong>
+</a>
+
+</div>
+
+---
+
+# 📌 GitHub Profile
+
+<div align="center">
+
+<a href="https://github.com/malikzainkhan">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=malikzainkhan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
+alt="Malik Zain GitHub Profile Statistics" />
+
+</a>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/malikzainkhan">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="mailto:zainbarki2233@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://linkedin.com/in/malikzainkhan">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://haseenullah.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/malikzainkhan">malikzainkhan</a> — thanks for stopping by!</i>
+
+### ⚡ Build. Learn. Ship. Repeat.
+
+<sub>Thanks for visiting my profile. Feel free to explore my repositories and projects. ⭐</sub>
+
 </div>
